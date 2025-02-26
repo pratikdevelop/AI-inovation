@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "smart-contract-scan"
+  },
+  "targets": {
+    "smart-contract-scan": {
+      "hosting": {
+        "ai-language-learning-companion": [
+          "build"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
